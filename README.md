@@ -30,6 +30,8 @@ Short description of the code is given below.
 
 -*LCDM_MCMC&NestedSampling.ipynb* -> LCDM model parameter inference using Bayesian Inference via **MCMC** for posterior samples and **Nested Sampling** for model comparison consireding the original model and a transition in **M**.
 
+-*Removal_of_z<0.01_LCDM.ipynb* -> LCDM model parameter inference using a standard **chi-square minimization**, removing all the non-Cepheids z<0.01 SNe, to account for the Volumetric Redshift Scatter Bias Effect.
+
 -*q0_chi_square.ipynb* -> Cosmographic expansion up to second order parameter inference using a standard **chi-square minimization** with and without a transition in **M** and model comparison between the two
 
 -*q0_MCMC.ipynb* -> Cosmographic expansion up to second order parameter inference using Bayesian Inference via **MCMC** for posterior samples and **Nested Sampling** for model comparison consireding the original model and a transition in **M**.
