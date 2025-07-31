@@ -26,6 +26,8 @@ Short description of the code is given below.
 
 -*Final Plots* -> All plots shown in the Thesis pdf
 
+-*Saved Samples* & *contour_data* -> All the npy and npz files respectively, storing the samples and contour data for each model.
+
 -*LCDM_chi_square.ipynb* -> LCDM model parameter inference using a standard **chi-square minimization** with and without a transition in **M** and model comparison between the two
 
 -*LCDM_MCMC&NestedSampling.ipynb* -> LCDM model parameter inference using Bayesian Inference via **MCMC** for posterior samples and **Nested Sampling** for model comparison consireding the original model and a transition in **M**.
